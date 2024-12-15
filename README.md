@@ -9,3 +9,5 @@ To run it you need:
 6. Now input command `./manage.py migrate`
 7. run the project with the command `./manage.py runserver`
 8. Open http://127.0.0.1:8000/ in your browser.
+
+Postman link: https://spy-cat-agency-9525.postman.co/workspace/My-Workspace~54b1d1a8-97f4-4b1c-8156-9371c1b788fd/collection/31534753-72746cf8-5c29-47cd-a3da-591126374baa?action=share&creator=31534753

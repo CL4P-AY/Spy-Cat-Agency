@@ -8,3 +8,4 @@ To run it you need:
 5. install all dependencies using the `pip install -r requirements.txt` command 
 6. Now input command `./manage.py migrate`
 7. run the project with the command `./manage.py runserver`
+8. Open http://127.0.0.1:8000/ in your browser.
